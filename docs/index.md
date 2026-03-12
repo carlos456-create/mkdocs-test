@@ -1,23 +1,30 @@
-# Welcome to MkDocs
+# Bienvenido al Manual de Usuario 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Este manual te guiará paso a paso en el uso del sistema. Aquí encontrarás toda la información necesaria para sacarle el máximo provecho.
 
-## Commands
+## ¿Qué es este sistema?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Es una plataforma diseñada para facilitar la gestión de tareas, usuarios y reportes de manera rápida y sencilla.
 
-## Project layout
+## Características principales
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+*  Interfaz intuitiva y fácil de usar
+*  Gestión de usuarios y permisos
+*  Reportes en tiempo real
+*  Soporte multiplataforma
+*  Actualizaciones automáticas
+
+## Requisitos del sistema
+
+| Componente | Mínimo | Recomendado |
+|------------|--------|-------------|
+| RAM | 4 GB | 8 GB |
+| Procesador | Intel i3 | Intel i5 o superior |
+| Espacio en disco | 10 GB | 20 GB |
+| Sistema operativo | Windows 10 | Windows 11 |
 
 ## Siguiente paso
 
-¿Listo para continuar?
+¿Listo para comenzar?
 
-[Ir a Prueba](prueba.md){ .md-button .md-button--primary }
+[Ver documentación](prueba.md){ .md-button .md-button--primary }
