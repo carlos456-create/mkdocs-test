@@ -29,3 +29,8 @@ print("Hola desde MkDocs")
 - 200gb de ram 
 - intel I20 
 - Rtx 7090 
+## Video de ejemplo
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/watch?v=wFQr-TeGhXg" 
+frameborder="0" allowfullscreen></iframe>
