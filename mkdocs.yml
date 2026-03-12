@@ -1,0 +1,22 @@
+site_name: Manual de Usuario
+site_description: Manual de usuario de nuestro sistema
+site_author: Tu Empresa
+
+theme:
+  name: material
+  language: es
+  logo: imagenes/logo.png
+  palette:
+    primary: blue
+    accent: light blue
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+
+markdown_extensions:
+  - attr_list
+
+nav:
+  - Inicio: index.md
+  - Prueba: prueba.md
